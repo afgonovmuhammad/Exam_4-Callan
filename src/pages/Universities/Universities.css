@@ -1,0 +1,11 @@
+.DIV{
+    background: #FFFFFF;
+box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.708);
+border-radius: 20px;
+}
+.INPUT{ 
+    border-radius: 5px;
+    border: 1px solid #4343;
+    padding: 2px 20px;
+    padding-right: 50px;
+}

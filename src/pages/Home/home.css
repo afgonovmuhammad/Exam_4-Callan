@@ -1,0 +1,24 @@
+.bnt_hom{
+    background: linear-gradient(92.71deg, #0499DD 0%, #17C1BC 100%);
+    border-radius: 60px;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+}
+.contener{
+    max-width: 2400px;
+    margin: 0 auto;
+}
+p{
+    color: #7A7A7A;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.Sert{
+    
+background: #FFFFFF;
+border: 1px dashed #ECF6FC;
+border-radius: 20px;
+box-shadow: 5px 13px 10px #434343;
+}
